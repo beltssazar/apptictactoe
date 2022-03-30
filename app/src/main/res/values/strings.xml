@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jogo da Velha App</string>
+    <string name="action_settings">Settings</string>
+    <string name="jogador1">Jogador 1 (X)</string>
+    <string name="jogador2">Jogador 2 (O)</string>
+    <string name="placar">PLACAR</string>
+    <string name="contagem">0</string>
+    <string name="venceu">Parabéns, você ganhou!!!</string>
+    <string name="velha">Deu velha!!!</string>
+</resources>
