@@ -1,10 +1,27 @@
 <resources>
     <string name="app_name">Jogo da Velha App</string>
     <string name="action_settings">Settings</string>
-    <string name="jogador1">Jogador 1 (X)</string>
-    <string name="jogador2">Jogador 2 (O)</string>
+    <string name="jogador1">Jogador 1 (%1$s)</string>
+    <string name="jogador2">Jogador 2 (%1$s)</string>
+    <string name="nomeJog1">%1$s</string>
+    <string name="nomeJog2">%1$s</string>
     <string name="placar">PLACAR</string>
     <string name="contagem">0</string>
-    <string name="venceu">Parabéns, você ganhou!!!</string>
+    <string name="jog1Venceu">Parabéns, jogador 1 ganhou!!!</string>
+    <string name="jog2Venceu">Parabéns, jogador 2 ganhou!!!</string>
     <string name="velha">Deu velha!!!</string>
+    <string name="resetar">Resetar o placar</string>
+    <string name="início">Voltar à tela inicial</string>
+    <string name="preferencias">Preferências</string>
+    <string name="simb_jog1">Símbolo do Jogador 1</string>
+    <string name="simb_jog2">Símbolo do Jogador 2</string>
+    <string name="nome1">Nome do Jogador 1</string>
+    <string name="nome2">Nome do Jogador 2</string>
+    <string name="summary_jog1">Escolha o Símbolo do Jogador 1</string>
+    <string name="summary_jog2">Escolha o Símbolo do Jogador 2</string>
+    <string name="summary_nome1">Escolha o Nome do Jogador 1</string>
+    <string name="summary_nome2">Escolha o Nome do Jogador 2</string>
+    <string name="iniciar">INICIAR JOGO</string>
+    <string name="deu_velha">Velha</string>
+
 </resources>
