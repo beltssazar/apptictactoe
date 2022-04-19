@@ -7,17 +7,15 @@
     android:background="@drawable/fundo">
 
 
-
     <Button
         android:id="@+id/botao_inicio"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/amarelo"
-        android:layout_gravity="center"
-        android:text="INICIAR JOGO"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="550dp"
         android:width="200dp"
-        android:layout_margin="100dp"
-        android:textColor="@color/black"
-        />
+        android:backgroundTint="@color/amarelo"
+        android:text="INICIAR JOGO"
+        android:textColor="@color/black" />
 
 </LinearLayout>
